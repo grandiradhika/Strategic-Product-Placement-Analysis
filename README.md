@@ -1,9 +1,15 @@
 Project Title :Strategic Product Placement Analysis: Unveiling Sales Impact with Tableau Visualization
+
 Team ID : LTVIP2026TMIDS82987
+
 Team Size : 4
+
 Team Leader : Iswarya Surekha Nagireddy
+
 Team member : Basina Veera Bavitha
+
 Team member : Jyothi Lakshmi Sainath Reddy
+
 Team member : Radhika Naga Sai Laxmi Santhoshi Grandi
 
 
