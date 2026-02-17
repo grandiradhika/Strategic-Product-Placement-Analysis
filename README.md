@@ -28,5 +28,5 @@ https://public.tableau.com/views/Book1_17712426033970/Story1?:language=en-GB&:em
 Deployed link:
 https://strategic-product-placement-analysis.onrender.com/
 
-This whole project was done by me. My name is Radhika Naga Sai Laxmi Santhoshi Grandi, including the documentation,excetion,and deployment also.
+This whole project was done by me. My name is Radhika Naga Sai Laxmi Santhoshi Grandi, including the documentation,exceution,and deployment also.
 
